@@ -32,7 +32,7 @@ I've shared the main files that I modified in the default Flutter project. Feel 
 3. **Run the Project**
    - Open the project in **VS Code** or **Android Studio**.
    - Ensure you have a device connected or an emulator running.
-   - Run the project using the following command in the terminal:
+   - you can start debbuging to view the project or Run the project using the following command in the terminal:
      ```bash
      flutter run
      ```
