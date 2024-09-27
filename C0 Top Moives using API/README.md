@@ -1,8 +1,20 @@
-# Top movies using API
+# Top Movies using API 🎬
 
-This project showcases a movies data collector using API, application developed through prompt engineering with the help of ChatGPT and Bing, during the Flutter Workshop at our college (25|09|2024 - 29|09|2024).
+This project showcases a **movies data collector** using an API, developed through prompt engineering with the help of ChatGPT and Bing, during the **Flutter Workshop** at our college (25|09|2024 - 29|09|2024).
 
-## Steps to Run
+## Features 📋
+
+- **Fetch Movie Data**: Retrieves movie details using the OMDb API.
+- **Display Movie Details**: Presents the movie information in an organized format.
+
+## Screenshot 📸
+
+![Top Movies](https://github.com/gvsrgh/Flutter-Project-Works/blob/main/C0%20Top%20Moives%20using%20API/Output.png)  
+*Interface displaying top movies retrieved from the API.*
+
+---
+
+## How to Run the Project 💻
 
 ### 1. Create a Default Flutter Project
 
@@ -24,7 +36,7 @@ This project showcases a movies data collector using API, application developed 
 2. Paste them into the project folder you just created.
 3. Replace the existing files if prompted.
 
-### 3. Get API Key
+### 3. Get API Key 🔑
 
 1. Visit [OMDb API](https://www.omdbapi.com/apikey.aspx) to get your API key.
 2. Replace the placeholder API key in the project files with your own API key.
@@ -38,16 +50,15 @@ This project showcases a movies data collector using API, application developed 
    flutter run
    ```
 
-## Features
+## Dependencies 🛠️
 
-- Fetch movie data using OMDb API
-- Display movie details
+- **Flutter SDK**
+- **OMDb API Key**
 
-## Dependencies
+## Contribution 🤝
 
-- Flutter SDK
-- OMDb API Key
+Feel free to use these files for your own projects. Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or submit an issue.
 
-## Contributing
+---
 
-Feel free to use these files for your own projects. Contributions are welcome!
+Enjoy exploring **Top Movies using API**! ✨
