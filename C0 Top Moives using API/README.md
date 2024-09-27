@@ -1,4 +1,4 @@
-# Movies API
+# Top movies using API
 
 This project showcases a movies data collector using API, application developed through prompt engineering with the help of ChatGPT and Bing, during the Flutter Workshop at our college (25|09|2024 - 29|09|2024).
 
