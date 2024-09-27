@@ -1,8 +1,24 @@
-# Calculator
+# Calculator 🧮
 
-This project showcases a simple yet efficient calculator developed through prompt engineering with the help of ChatGPT and Bing, during the Flutter Workshop at our college (25|09|2024 - 29|09|2024).
+This project showcases a simple yet efficient **calculator** developed through prompt engineering with the help of ChatGPT and Bing, during the **Flutter Workshop** at our college (25|09|2024 - 29|09|2024).
 
-## Steps to Run
+## Features 📋
+
+- **Loading Screen**: Displays a loading screen that fades into the calculator interface.
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, division, and modulus.
+- **User-Friendly Interface**: A sleek and intuitive design for a smooth user experience.
+
+## Screenshots 📸
+
+![Loading Screen](https://github.com/gvsrgh/Flutter-Project-Works/blob/main/C01%20Calculator/Output1.png)  
+*Loading screen welcoming the user.*
+
+![Calculator Interface](https://github.com/gvsrgh/Flutter-Project-Works/blob/main/C01%20Calculator/Output2.png)  
+*Main calculator interface.*
+
+---
+
+## How to Run the Project 💻
 
 ### 1. Create a Default Flutter Project
 
@@ -33,16 +49,14 @@ This project showcases a simple yet efficient calculator developed through promp
    flutter run
    ```
 
-## Features
+## Dependencies 🛠️
 
-- Displays a loading screen that fades into the calculator.
-- Basic arithmetic operations including addition, subtraction, multiplication, division, and modulus.
-- A sleek and intuitive user interface.
+Make sure to have the **Flutter SDK** installed to run the project.
 
-## Dependencies
+## Contribution 🤝
 
-- Flutter SDK
+Feel free to use these files for your own projects. Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or submit an issue.
 
-## Contributing
+---
 
-Feel free to use these files for your own projects. Contributions are welcome!
+Enjoy using **Calculator**! ✨
